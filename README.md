@@ -2,9 +2,7 @@
 
 <p align="center">Hi, my name is Davi, i am back-end developer.
  i-m user in kernel linux e bash language.</p>&nbsp;
- <p align="left">
-  <img align="center" src="https://tenor.com/pt-BR/view/linux-ethandud-dance-penguin-gif-15304376" alt="Imagem">
-</p>
+<div class="tenor-gif-embed" data-postid="15304376" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/linux-ethandud-dance-penguin-gif-15304376">Linux Ethandud Sticker</a>from <a href="https://tenor.com/search/linux-stickers">Linux Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
  &nbsp;
  &nbsp;
