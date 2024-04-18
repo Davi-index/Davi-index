@@ -1,6 +1,7 @@
 
 
-<p align="center">Hi, my name is Davi, i am back-end developer, i-m user in kernel linux e bash language.</p>&nbsp;
+<p align="center">Hi, my name is Davi, i am back-end developer.
+ i-m user in kernel linux e bash language.</p>&nbsp;
 
  &nbsp;
  &nbsp;
