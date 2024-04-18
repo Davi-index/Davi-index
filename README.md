@@ -1,9 +1,8 @@
-
-
-<p align="center">Hi, my name is Davi, i am back-end developer.
- i-m user in kernel linux e bash language.</p>&nbsp;
-<div class="tenor-gif-embed" data-postid="15304376" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/linux-ethandud-dance-penguin-gif-15304376">Linux Ethandud Sticker</a>from <a href="https://tenor.com/search/linux-stickers">Linux Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<table>
+    <td> <img width=100% src="https://github.com/Davi-index/Davi-index/assets/72363511/336b74d2-f772-42d8-ad46-5cddf62dfea0"/>
+    <td> Hi, my name is Davi, i am back-end developer</br>
+     i-m user in kernel linux e bash language.</td> 
+</table>
  &nbsp;
  &nbsp;
 
