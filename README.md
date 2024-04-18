@@ -1,6 +1,8 @@
 <div>
     <img align="left"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/336b74d2-f772-42d8-ad46-5cddf62dfea0"/>
+    <img align="right"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/336b74d2-f772-42d8-ad46-5cddf62dfea0"/>
 <p align="center"> Hello, my name is Davi, I'm Back-end Developer</p>
+    <p align="center">B.T.I</p>
     <p align="center">I'm User Kernel Linux, e Bash Language</p>
 <div>
  &nbsp;
