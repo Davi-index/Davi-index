@@ -3,7 +3,7 @@
 <p align="center">Hi, my name is Davi, i am back-end developer, i-m user in kernel linux e bash language.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="[https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly](https://miro.medium.com/v2/resize:fit:1400/1*9zXQCZxigrA-E2BX2AOWJg.gif)" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-davi-index.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
  
