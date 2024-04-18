@@ -2,6 +2,9 @@
 
 <p align="center">Hi, my name is Davi, i am back-end developer.
  i-m user in kernel linux e bash language.</p>&nbsp;
+ <p align="left">
+  <img align="center" src="(https://media.tenor.com/POvAg2bcNnAAAAAi/linux-ethandud.gif)" alt="Imagem">
+</p>
 
  &nbsp;
  &nbsp;
