@@ -1,10 +1,9 @@
 <div>
-    <img align="left"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/7e5c3438-303e-49bc-ace8-950a62259536"/>
+    <img align="left"width=25% src="https://github.com/Davi-index/Davi-index/assets/72363511/ec6ba02f-3d2d-4130-89ff-0bf91c49f768"/>
     <img align="right"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/336b74d2-f772-42d8-ad46-5cddf62dfea0"/>
     <p align="center"> Hello, my name is Davi, I'm Back-end Developer</p>
     <p align="center">B.T.I</p>
     <p align="center">I'm User Kernel Linux, e Bash Lenguage</p>
-    
 <div>
  &nbsp;
  &nbsp;
