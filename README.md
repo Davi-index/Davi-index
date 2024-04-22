@@ -45,8 +45,11 @@
 ![Kali](https://img.shields.io/badge/kali-4285F4?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=#458636)&nbsp;
 
-
-![DevFer GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-index&show_icons=true&theme=dark)
+<div>
+  <a href="https://github.com/luis-luciqm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-index&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-index&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
 
 &nbsp;
