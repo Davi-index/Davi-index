@@ -1,13 +1,17 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5eb018&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5eb018&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+is+Davi+Alves+Maia;I'm+21+years+old;I+from+Brasil,+RN;I+study+In+UFERSA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <div>
-    <img align="left"width=12% src="https://github.com/Davi-index/Davi-index/assets/72363511/1899b1db-a805-483b-857b-8c685972d9f1"/>
+    <img align="left"width=12% src="https://github.com/Davi-index/Davi-index/assets/72363511/1cbc620a-e0d4-43eb-a6f9-25497d9dca1c"/>
     <img align="right"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/336b74d2-f772-42d8-ad46-5cddf62dfea0"/>
     <p align="center"> Hello, my name is Davi, I'm Back-end Developer</p>
     <p align="center">B.T.I</p>
     <p align="center">I'm User Kernel Linux, e Bash Lenguage</p>
 
 <div>
- &nbsp;
- &nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 
 
@@ -46,14 +50,20 @@
 ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Kali](https://img.shields.io/badge/kali-4285F4?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=#458636)&nbsp;
+    <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Davi-index&show_icons=true&count_private=true&hide_border=true&title_color=5eb018&icon_color=5eb018&text_color=c9d1d9&bg_color=0d1117" alt="Davi Maia github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-index&layout=compact&hide_border=true&title_color=5eb018&text_color=5eb018&bg_color=0d1117" />
 
 
-<div>
-  <a href="https://github.com/Davi-index">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-index&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-index&layout=compact&langs_count=7&theme=midnight-purple"/>
+  
 </div>
-
+    <img align="left"width=12% src="https://github.com/Davi-index/Davi-index/assets/72363511/1899b1db-a805-483b-857b-8c685972d9f1"/>
+    <img align="right"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/940268be-6ee0-4fef-8374-c2280d5f9e26"/>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Davi-index}/count.svg" /></p> 
+<br>
+</div>
 
 &nbsp;
 &nbsp;
@@ -65,4 +75,4 @@
 </a>
 </div>&nbsp;&nbsp;
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5eb018&height=120&section=footer"/>
