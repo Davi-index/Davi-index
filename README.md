@@ -27,6 +27,8 @@
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Powershell](https://img.shields.io/badge/Shell-20232A?style=for-the-badge&logo=powershell&logoColor=67cb77)&nbsp;
+
 
 #### Studying in this moment:
 
