@@ -52,6 +52,8 @@
 ![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=#458636)&nbsp;
     <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Davi-index&show_icons=true&count_private=true&hide_border=true&title_color=5eb018&icon_color=5eb018&text_color=c9d1d9&bg_color=0d1117" alt="Davi Maia github stats" /> 
+&nbsp;
+&nbsp;
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-index&layout=compact&hide_border=true&title_color=5eb018&text_color=5eb018&bg_color=0d1117" />
 
 
