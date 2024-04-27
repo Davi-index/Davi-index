@@ -75,3 +75,6 @@
 </div>&nbsp;&nbsp;
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5eb018&height=120&section=footer"/>
+
+
+[snake gif](https://github.com/your-user-name/Davi-index/blob/output/github-contribution-grid-snake.gif)
