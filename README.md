@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5eb018&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5eb018&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+is+Davi+Alves+Maia;I'm+21+years+old;I+from+Brasil,+RN;I+study+In+UFERSA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5eb018&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+is+Davi+Maia;I'm+21+years+old;I+from+Brasil,+RN;I+study+In+UFERSA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div>
     <img align="left"width=12% src="https://github.com/Davi-index/Davi-index/assets/72363511/1cbc620a-e0d4-43eb-a6f9-25497d9dca1c"/>
     <img align="right"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/336b74d2-f772-42d8-ad46-5cddf62dfea0"/>
