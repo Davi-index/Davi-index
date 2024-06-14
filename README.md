@@ -58,7 +58,8 @@
     <img align="left"width=12% src="https://github.com/Davi-index/Davi-index/assets/72363511/1899b1db-a805-483b-857b-8c685972d9f1"/>
     <img align="right"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/940268be-6ee0-4fef-8374-c2280d5f9e26"/>
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitors Count</b></p>
+    
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Davi-index}/count.svg" /></p> 
 <br>
 </div>
