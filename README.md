@@ -67,7 +67,7 @@
 </div>
 
 <div align="center"> 
-<img align="center"width=35% src="https://github.com/user-attachments/assets/3d3b00a4-d40e-4ec8-ad2b-45bbdfd83ab6"/>
+<img align="center"width=35% src="https://fontmeme.com/permalink/250129/e7897080f9e237511314efd379ff2fc1.png"/>
 </div>
 
 
