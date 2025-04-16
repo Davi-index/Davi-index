@@ -7,7 +7,6 @@
     <p align="center"> Hello, my name is Davi, I'm Back-end Developer</p>
     <p align="center">B.T.I</p>
     <p align="center">I'm User Kernel Linux & Android</p>
-
     
 <div>
 &nbsp;
