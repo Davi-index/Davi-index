@@ -72,10 +72,12 @@
 
 <div> 
 <a href="https://www.instagram.com/davi.maia.180" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<a href = "maiadavi3266@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href = "maiadavi3266@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 </div>&nbsp;&nbsp;
-
+&nbsp;
+    
 ![github-contribution-grid-snake](https://github.com/Davi-index/Davi-index/assets/72363511/522e1c76-bd3b-45dc-a89d-418ab9c0697f)
 
+&nbsp;
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5eb018&height=120&section=footer"/>
