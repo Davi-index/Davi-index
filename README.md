@@ -43,6 +43,7 @@
 #### Databases:
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![FireBase](https://img.shields.io/badge/firebase-e53d0d?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 
 
 #### Workstation Tools:
