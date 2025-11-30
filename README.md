@@ -21,7 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=61DAFB)&nbsp;
 
 <img src="https://github.com/user-attachments/assets/0f5dc0b3-b5b4-4b84-8f25-c15b358e39d5" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -31,7 +30,7 @@
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Powershell](https://img.shields.io/badge/Shell-20232A?style=for-the-badge&logo=powershell&logoColor=67cb77)&nbsp;
-
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 #### Studying in this moment:
 
@@ -53,8 +52,7 @@
 ![Kali](https://img.shields.io/badge/kali-4285F4?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=#458636)
 
-<div align="center">  
-
+<div align="center">
   <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-index&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
     <img align="left"width=12% src="https://github.com/Davi-index/Davi-index/assets/72363511/1899b1db-a805-483b-857b-8c685972d9f1"/>
