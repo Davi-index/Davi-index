@@ -4,7 +4,7 @@
 <div>
     <img align="left"width=12% src="https://github.com/Davi-index/Davi-index/assets/72363511/1cbc620a-e0d4-43eb-a6f9-25497d9dca1c"/>
     <img align="right"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/336b74d2-f772-42d8-ad46-5cddf62dfea0"/>
-    <p align="center"> Hello, my name is Davi, I'm Back-end Developer</p>
+    <p align="center"> Hello, my name is Davi, Sometimes Developer</p>
     <p align="center">B.T.I</p>
     <p align="center">I'm User Kernel Linux || Android</p>
     
