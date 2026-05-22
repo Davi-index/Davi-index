@@ -53,7 +53,6 @@
 ![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=#458636)
 
 <div align="center">
-  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-index&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
     <img align="left"width=12% src="https://github.com/Davi-index/Davi-index/assets/72363511/1899b1db-a805-483b-857b-8c685972d9f1"/>
     <img align="right"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/940268be-6ee0-4fef-8374-c2280d5f9e26"/>
