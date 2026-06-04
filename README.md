@@ -44,6 +44,10 @@
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![FireBase](https://img.shields.io/badge/firebase-e53d0d?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 
+#### Design:
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 ![VScode](https://img.shields.io/badge/VSCODE-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
@@ -51,17 +55,6 @@
 ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Kali](https://img.shields.io/badge/kali-4285F4?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=#458636)
-
-<div align="center">
-</div>
-    <img align="left"width=12% src="https://github.com/Davi-index/Davi-index/assets/72363511/1899b1db-a805-483b-857b-8c685972d9f1"/>
-    <img align="right"width=10% src="https://github.com/Davi-index/Davi-index/assets/72363511/940268be-6ee0-4fef-8374-c2280d5f9e26"/>
-<div align="center">
-
-<div align="center"> 
-<img align="center"width=45% src="https://github.com/user-attachments/assets/0f6d90af-40bf-42f8-8fc8-23a1f167288d"/>
-</div>
-
 
 &nbsp;
 &nbsp;
